@@ -14,36 +14,36 @@ lang: en
 
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: America/Chicago
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: Matthew Mullin                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Grad student by day, Insomniac Inventor by night   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  Grad student by day, Insomniac Inventor by night.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'Matthew-Mullin.github.io'
 
 github:
-  username: github_username             # change to your github username
+  username: Matthew-Mullin             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: matthewjmullin           # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: Matthew J Mullin
   email: example@domain.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/MatthewJMullin      # change to your twitter homepage
+    - https://github.com/Matthew-Mullin       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -78,10 +78,10 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: 
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://media.licdn.com/dms/image/C5603AQGh6JdP9tQqrQ/profile-displayphoto-shrink_800_800/0/1654610377735?e=1677715200&v=beta&t=pLsF3f8_EsUjdMkNjBqwo8AOv_K3yBGK2ravXKL5Grc
 
 # boolean type, the global switch for ToC in posts.
 toc: true
