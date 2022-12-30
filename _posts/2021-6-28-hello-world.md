@@ -16,10 +16,10 @@ To further prove my point, I’ll link some of the first artwork I’ve produced
 
 
 My Avatar: GalacticNinga (I didn’t know how to spell Ninja) circa 8/4/2012
-- <img src="../assets/images/hello-1.jpeg">
+- <img src="/assets/img/hello-1.jpeg">
 
 A picture of my hand after reading “Drawing on the Right Side of the Brain” circa 2/25/2014
-- <img src="../assets/images/hello-2.jpg">
+- <img src="/assets/img/hello-2.jpg">
 
 Additionally, some tips I have are:
 
