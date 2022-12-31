@@ -6,9 +6,7 @@ order: 4
 
 <section markdown=0>
 
-<div align=center>
-<img src="https://media.licdn.com/dms/image/C5603AQGh6JdP9tQqrQ/profile-displayphoto-shrink_800_800/0/1654610377735?e=1677715200&v=beta&t=pLsF3f8_EsUjdMkNjBqwo8AOv_K3yBGK2ravXKL5Grc", alt="a really cool guy" width="50%" style="object-fit: cover; border-radius: 50%"></img>
-</div>
+<img src="https://media.licdn.com/dms/image/C5603AQGh6JdP9tQqrQ/profile-displayphoto-shrink_800_800/0/1654610377735?e=1677715200&v=beta&t=pLsF3f8_EsUjdMkNjBqwo8AOv_K3yBGK2ravXKL5Grc" alt="a really cool guy" width="50%" style="object-fit: cover; border-radius: 50%; margin-left: auto; margin-right: auto;">
 
 </section>
 
@@ -31,6 +29,7 @@ In all seriousness, I made this website because over the years, I've worked on a
 <details> 
 
 <section markdown=1>
+
 >(**warning:** all meta-data from this website is faxxed to your employer via a team of highly confused and poorly coordinated clowns) 
 {: .prompt-danger }
 
@@ -76,5 +75,7 @@ While in high school, I may have been described as an [anarcho-syndicalist with 
     * Therefore, the best position is probably to avoid excess luxury (no yachts, which is a shame because I was going to buy one with my massive grad student stipend).
 * using fancy words and being a moral elitist.
 * getting very educated and lacking any real business experience, while claiming to value the opposite
+
 </section>
+
 </details>
