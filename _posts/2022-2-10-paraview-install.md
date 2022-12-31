@@ -5,7 +5,7 @@ categories: [tutorial,software]
 tags: [paraview,linux,install,software]
 ---
 # Install
-Everything is based off this video: [https://www.youtube.com/watch?v=tWEGjWD8d2M]
+Everything is based off this video: <https://www.youtube.com/watch?v=tWEGjWD8d2M>
 
 **Note: wherever it says 5.10.0, replace that with your version either manually or by hitting the tab button to autocomplete.** 
 
@@ -13,7 +13,7 @@ Everything is based off this video: [https://www.youtube.com/watch?v=tWEGjWD8d2M
 - If nothing happens, you don’t have it installed.
 - If a file/folder path shows up, then you have it installed. Then type in: `sudo apt-get remove paraview`
 **note: if you’re ever typing in the name of something such as an application or folder, try typing in the first few letters and then hitting tab to autocomplete. You might have something installed such as paraview-4.0, which Linux would be able to autofind for you.**
-2. Download ParaView: [https://www.paraview.org/download/]
+2. Download ParaView: <https://www.paraview.org/download/>
 3. 
 ```
 sudo tar -xvzf ~/Downloads/ParaView-5.10.0-MPI-Linux-Python3.9-x86_64.tar.gz -C /opt/

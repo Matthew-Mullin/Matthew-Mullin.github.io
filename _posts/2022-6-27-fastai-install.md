@@ -47,15 +47,15 @@ sudo apt-get update
 sudo apt-get upgrade
 ```
 3. Check to see which NVIDIA drivers to install
-    1. type in terminal [https://linuxize.com/post/how-to-nvidia-drivers-on-ubuntu-20-04/ ]: 
+    1. type in terminal <https://linuxize.com/post/how-to-nvidia-drivers-on-ubuntu-20-04/>: 
     ```ubuntu-drivers devices```
     2. I got something that looked like this in return: [insert screenshot]
     3. Install the recommended driver, in my case I typed into terminal: `sudo apt install nvidia-driver-510`
     4. Once installed reboot system: `sudo reboot`
 4. Install Nvidia drivers: (MAKE SURE YOUR TERMINAL IS FULL SCREEN WHEN DOING THIS)
-5. Check Nvidia drivers with `nvidia-smi` [https://forums.fast.ai/t/platform-local-server-ubuntu/65851]
-6. `sudo add-apt-repository ppa:graphics-drivers/ppa` [https://phoenixnap.com/kb/install-nvidia-drivers-ubuntu]
-7. `ubuntu-drivers devices` [https://phoenixnap.com/kb/install-nvidia-drivers-ubuntu]
+5. Check Nvidia drivers with `nvidia-smi` <https://forums.fast.ai/t/platform-local-server-ubuntu/65851>
+6. `sudo add-apt-repository ppa:graphics-drivers/ppa` <https://phoenixnap.com/kb/install-nvidia-drivers-ubuntu>
+7. `ubuntu-drivers devices` <https://phoenixnap.com/kb/install-nvidia-drivers-ubuntu>
 8. `sudo ubuntu-drivers autoinstall` (alternatively, you could install an individual driver by replacing autoinstall with the specific driver name, but eh)
 9. while the drivers are installing, you should get a window that pops up that asks for MOK authentication – for secure boot
 10. click okay
@@ -93,7 +93,7 @@ pip install fastbook
 3. open a new terminal for and type `jupyter-lab`
 4. navigate to clean and first notebook
 5. monitoring GPU and CPU usage and temps: [GPU should be at or near 100% when running epocs, but shouldn’t exceed 85C <= cooling needed if this occurs]
-In a new terminal type in `watch -d -n 0.5 nvidia-smi` [https://unix.stackexchange.com/questions/38560/gpu-usage-monitoring-cuda]
+In a new terminal type in `watch -d -n 0.5 nvidia-smi` <https://unix.stackexchange.com/questions/38560/gpu-usage-monitoring-cuda>
 6. open up system info to look at CPU cores
 7. Run first 3 things in Jupyter
 
@@ -128,5 +128,5 @@ Recommends: libnvidia-gl-470:i386 (= 470.103.01-0ubuntu0.20.04.1)
 E: Unable to correct problems, you have held broken packages.
 ```
 
-Try this: https://askubuntu.com/questions/140246/how-do-i-resolve-unmet-dependencies-after-adding-a-ppa
-Or try this: https://askubuntu.com/questions/1362970/problem-installing-nvidia-driver-on-ubuntu-20-04
+Try this: <https://askubuntu.com/questions/140246/how-do-i-resolve-unmet-dependencies-after-adding-a-ppa>
+Or try this: <https://askubuntu.com/questions/1362970/problem-installing-nvidia-driver-on-ubuntu-20-04>

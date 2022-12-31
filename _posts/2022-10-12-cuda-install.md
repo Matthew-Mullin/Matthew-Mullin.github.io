@@ -6,10 +6,10 @@ tags: [cuda,linux,install,software]
 ---
 # Install
 
-1. Follow this: https://developer.nvidia.com/cuda-downloads
+1. Follow this: <https://developer.nvidia.com/cuda-downloads>
 2. Reboot computer
 3. Open a terminal and run `nvidia-smi` as a check
-4. Run the following in the terminal (source: https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html):
+4. Run the following in the terminal (source: <https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html>):
 
 ```bash
 nano /home/username/.bashrc
@@ -23,4 +23,4 @@ export LD_LIBRARY_PATH=/usr/local/cuda/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY_PAT
 
 If you want to work with .cu scripts in vscode, install nsight extension (only extension made by Nvidia)
 
-Guide for trouble shooting: https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html
+Guide for trouble shooting: <https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html>

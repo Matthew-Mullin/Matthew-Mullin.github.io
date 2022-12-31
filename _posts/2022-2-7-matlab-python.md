@@ -12,12 +12,12 @@ tags: [matlab,python,windows,anaconda,install,software]
 ```bash
 conda activate insert-name-of-environment-here
 ```
-- if you don't know what an environment is, check this out: [https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html]
+- if you don't know what an environment is, check this out: <https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html>
 4. find the matlab directory
 ```bash
 matlab -batch matlabroot
 ``` 
-[https://www.scivision.dev/matlab-engine-python-install/]
+<https://www.scivision.dev/matlab-engine-python-install/>
 5. cd to that directory
 - in my case I did:
 ```bash

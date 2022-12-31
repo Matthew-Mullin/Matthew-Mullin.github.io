@@ -18,10 +18,10 @@ git clone https://github.com/yourUsername/yourRepository.git
 - could also be a repository from someone else
 3. enter username
 4. For password:
-    1. follow the steps for creating a token: [https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token]
+    1. follow the steps for creating a token: <https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token>
     2. paste in your token for the password
     3. (optional) save the token to a .txt file or something for convenience
-5. Push what you have to the origin: [https://www.linode.com/docs/guides/how-to-install-git-and-clone-a-github-repository/]
+5. Push what you have to the origin: <https://www.linode.com/docs/guides/how-to-install-git-and-clone-a-github-repository/>
     1. cd to your github folder
     2. 
     ```bash
@@ -41,7 +41,7 @@ git clone https://github.com/yourUsername/yourRepository.git
     3. enter username
     4. enter token for password
 
-Good overview videos: https://www.youtube.com/watch?v=RGOj5yH7evk
+Good overview videos: <https://www.youtube.com/watch?v=RGOj5yH7evk>
 
 # Branching
 ## Create New Branch
@@ -72,16 +72,21 @@ git merge main
 ```
 
 # Troubleshooting
-**Problem:** remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+**Problem:** 
+```
+remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
 remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
 fatal: Authentication failed for ‘https://github.com/uw-esolab/sf-learn.git/’
+```
 
-**Solution:** need a token: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+**Solution:** need a token: <https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token>
 
-**Problem: you want to clone a fresh repo over your branch**$ git clone https://github.com/username/repo.git
+**Problem: you want to clone a fresh repo over your branch**
+```
+git clone https://github.com/username/repo.git
 Username: your_username
 Password: your_token
-
+```
 ***Solution:** If you don’t care about the changes you made and want to pull the repository, type in: git reset –hard origin
 
-[https://stackoverflow.com/questions/1125968/how-do-i-force-git-pull-to-overwrite-local-files]
+<https://stackoverflow.com/questions/1125968/how-do-i-force-git-pull-to-overwrite-local-files>
