@@ -4,11 +4,15 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<div align="center">
+<section markdown=0>
+
+<div align=center>
 <img src="https://media.licdn.com/dms/image/C5603AQGh6JdP9tQqrQ/profile-displayphoto-shrink_800_800/0/1654610377735?e=1677715200&v=beta&t=pLsF3f8_EsUjdMkNjBqwo8AOv_K3yBGK2ravXKL5Grc", alt="a really cool guy" width="50%" style="object-fit: cover; border-radius: 50%"></img>
 </div>
 
+</section>
 
+<section markdown=1>
 
 > Let's be real, who's going to read this?
 > -- <cite>Matthew J Mullin's famous last words</cite>
@@ -20,10 +24,13 @@ The purpose of this website is to share my FREE ENERGY ANTI-ENTROPY TESLA TURBIN
 
 In all seriousness, I made this website because over the years, I've worked on a few projects and also mulled over 100’s of ideas from beamed powered propulsion vehicles to low-cost cryocoolers. I've learned a lot of lessons of what works and what doesn't, and I'd like to share that knowledge with others to save them some time. I'd also like to explore open-sourcing some of my invention ideas just to see what happens.
 
+</section>
+
 # Additional Info
 <summary>Here's some more info about me for those with abundant freetime and/or if you're running out of effective treatments for insomnia:</summary>
 <details> 
 
+<section markdown=1>
 >(**warning:** all meta-data from this website is faxxed to your employer via a team of highly confused and poorly coordinated clowns) 
 {: .prompt-danger }
 
@@ -69,4 +76,5 @@ While in high school, I may have been described as an [anarcho-syndicalist with 
     * Therefore, the best position is probably to avoid excess luxury (no yachts, which is a shame because I was going to buy one with my massive grad student stipend).
 * using fancy words and being a moral elitist.
 * getting very educated and lacking any real business experience, while claiming to value the opposite
+</section>
 </details>
