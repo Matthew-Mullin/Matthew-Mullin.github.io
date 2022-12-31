@@ -1,5 +1,5 @@
 ---
-title: How to properly install CUDA on Ubuntu Linux (NVCC)
+title: Running MATLAB files/functions in Python (Windows & Anaconda)
 date: 2022-10-12 12:00:00 -500
 categories: [tutorial,software]
 tags: [matlab,python,windows,anaconda,install,software]
