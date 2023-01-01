@@ -4,25 +4,36 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+
 <section markdown=0>
 
+
+<!---
 <img src="https://media.licdn.com/dms/image/C5603AQGh6JdP9tQqrQ/profile-displayphoto-shrink_800_800/0/1654610377735?e=1677715200&v=beta&t=pLsF3f8_EsUjdMkNjBqwo8AOv_K3yBGK2ravXKL5Grc" alt="a really cool guy" width="50%" style="object-fit: cover; border-radius: 50%; margin-left: auto; margin-right: auto;">
+-->
 
 </section>
 
 <section markdown=1>
 
+![Desktop View](/assets/img/MM_Logo.png)
+_Pic of what I look like_
+
+
 > Let's be real, who's going to read this?
-> -- <cite>Matthew J Mullin's famous last words</cite>
+> -- <cite>Matthew Mullin's famous last words</cite>
 
 # About Me
 Hi, I'm Matt. I'm a 20-something grad student, mechanical engineer, [YouTuber](https://www.youtube.com/user/GalacticsTutorials/featured), [maker](https://www.youtube.com/channel/UC7IVAaYbsnq1icQKPBbQzzw), inventor, and self-proclaimed Pirate 🏴‍☠️(left the last one off my resume).
 
-The purpose of this website is to share my FREE ENERGY ANTI-ENTROPY TESLA TURBINE DEVICE DESIGN before the energy companies suppress it (that was a [joke](https://en.wikipedia.org/wiki/Joke) and evidence that I have a personality, despite any real-life interactions that may suggest the converse). I recognize that in some jurisdictions, the possession of a personality is illegal, and I [sincerely apologize](https://agar.io/#ffa) for any damage it may incur.
+The purpose of this website is to share my FREE ENERGY ANTI-ENTROPY TESLA TURBINE DEVICE DESIGN before the energy companies suppress it (that was a [joke](https://en.wikipedia.org/wiki/Joke) and evidence that I have a personality, despite any real-life interactions that may suggest the converse).
 
 In all seriousness, I made this website because over the years, I've worked on a few projects and also mulled over 100’s of ideas from beamed powered propulsion vehicles to low-cost cryocoolers. I've learned a lot of lessons of what works and what doesn't, and I'd like to share that knowledge with others to save them some time. I'd also like to explore open-sourcing some of my invention ideas just to see what happens.
 
 </section>
+
+# Contact Me
+<comments@whitehouse.gov>
 
 # Additional Info
 <summary>Here's some more info about me for those with abundant freetime and/or if you're running out of effective treatments for insomnia:</summary>
@@ -67,12 +78,12 @@ While in high school, I may have been described as an [anarcho-syndicalist with 
 * open to sharing almost all information freely (possibly with royalties/licenses for business); however, I do understand why posting DIY thermonuclear fusion tutorials on YouTube could be problematic.
 * listening to the [Andrew Huberman podcast](https://hubermanlab.com/)
 * generally against certain business practices that involve the generation of single-use containers, planned obsolescence, fighting the right to repair, dehumanization (think about the supply chain of your phone), etc.
-    * but I see the introduction of more conscientious (and well-marketed) businesses as the only practical solution, considering the nature of legislation and corporate influence.
+    * but I see the introduction of more conscientious (and well-marketed) businesses as the only practical solution
 * **only buying one brand of socks so you don't have to sort your socks**
 * life isn’t a zero sum game:
     * humans are able to turn resources into objects of higher value
     * but we do live in a world of finite resources (natural, economic, and human). 
-    * Therefore, the best position is probably to avoid excess luxury (no yachts, which is a shame because I was going to buy one with my massive grad student stipend).
+    * Therefore, the best position is probably to avoid excess luxury (no yachts, which is a shame because I was going to buy one with my **massive** grad student stipend).
 * using fancy words and being a moral elitist.
 * getting very educated and lacking any real business experience, while claiming to value the opposite
 
