@@ -5,10 +5,12 @@ categories: [health]
 tags: [skin,health]
 ---
 
-I always thought skincare was fairly vain, but unfortunately good skin equals good confidence. 
+I always thought skincare was fairly vain, but good skin equals good confidence, which is important if you want to be a jolly little human.
 
 Here's some tips:
-* Avoid dairy
+* Avoid dairy [^fn1]
+    - Dairy (of any kind) can increase your odds of getting acne by ~20-25%
+    - Drinking 2 glasses of milk or more a day could increase acne rates by >40%
 * Apply sunscreen to your face before going outside
 * Use a facial cleanser and moisturizer
 * Shower at the end of the day or after you exercise
@@ -20,4 +22,6 @@ Here's some tips:
     * Either keep your hair short
     * Or use a [hairband](https://www.amazon.com/gp/product/B07VFYM5B5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) 
 * Sleep on your back if you can
-* Avoid processes sugars (fruit is fine)
+* Avoid processed sugars (fruit is fine)
+
+[fn1]: *Dairy Intake and Acne Vulgaris: A Systematic Review and Meta-Analysis of 78,529 Children, Adolescents, and Young Adults* <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6115795/>
