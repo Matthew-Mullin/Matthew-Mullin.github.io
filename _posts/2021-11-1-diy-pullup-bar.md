@@ -93,7 +93,7 @@ where D < (L-D).
 Now we can plug these into our happy excel sheet and find the maximum force the pipe can hold (once we have a specific pipe in mind). It should also be noted that this analysis is incomplete without considering the total stress at a given point due to the **reaction forces + the bending stress** at the two ends A & B, as well as conducting an FEA simulation to confirm my results. But hey, I said I'm an engineer, not a thorough engineer (we'll get to it if we have extra time). 
 
 ## Buckling
-The critical load due to buckling is the maximum weight the columns holding up the pullup bar can support. You'd think it would just be related to the compressive strength of the bar, but because no force is perfectly compressive along the axis of the column (to see what I mean, watch [this video](youtube.com/watch?v=21G7LA2DcGQ)), the formulas we use is given below:
+The critical load due to buckling is the maximum weight the columns holding up the pullup bar can support. You'd think it would just be related to the compressive strength of the bar, but because no force is perfectly compressive along the axis of the column (to see what I mean, watch [this video](https://youtube.com/watch?v=21G7LA2DcGQ)), the formulas we use is given below:
 
 $$F=nEI(\frac{\pi}{L})^2$$
 
