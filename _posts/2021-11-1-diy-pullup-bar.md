@@ -7,7 +7,7 @@ math: on
 ---
 
 # Purpose
-Designing a pull up bar is a great engineering project to apply the subjects of [statics](https://engineeringstatics.org/Chapter_01.html) and [mechanics of solids](solidmechanics.org/Text/Chapter1_1/Chapter1_1.php) to a manageable real-world project and to learn about DIY hardware. If you're not an engineering student, don't worry, you just need to know simple math for this article (you'll learn a lot along the way). 9/10 times it's easier and cheaper to just buy a pull up bar (if you factor in the time-cost it takes you to build and design something), but if you can't find what you're looking for, engineering a product is your only choice.
+Designing a pull up bar is a great engineering project to apply the subjects of [statics](https://engineeringstatics.org/Chapter_01.html) and [mechanics of solids](http://solidmechanics.org/Text/Chapter1_1/Chapter1_1.php) to a manageable real-world project and to learn about DIY hardware. If you're not an engineering student, don't worry, you just need to know simple math for this article (you'll learn a lot along the way). 9/10 times it's easier and cheaper to just buy a pull up bar (if you factor in the time-cost it takes you to build and design something), but if you can't find what you're looking for, engineering a product is your only choice.
 # Requirements
 Before buying anything, doing any math, 3D modeling, or building anything, we need to define what we want our pull up bar to do.
 For the sake of this tutorial we want our bar to:
@@ -54,17 +54,17 @@ The bending stress on the pull up bar is the stress experienced on the bar when 
 
 To calculate the bending stress, we use this equation:
 $$ \sigma = {My \over I} $$ 
-where *y* is the distance from the center of the bar, *M* is the moment (we'll get to that in a second), and *I* is a geometric property of the cross-sectional area called the second moment of area or **moment of inertia**. A list of formulas for moment of inertia can be found [here](en.wikipedia.org/wiki/List_of_second_moments_of_area) for common shapes. Since a pull-up bar is usually a pipe, the formula for that moment of inertia is given by the formula below (where OD and ID refer to outer and inner diameter respectively):
+where *y* is the distance from the center of the bar, *M* is the moment (we'll get to that in a second), and *I* is a geometric property of the cross-sectional area called the second moment of area or **moment of inertia**. A list of formulas for moment of inertia can be found [here](https://en.wikipedia.org/wiki/List_of_second_moments_of_area) for common shapes. Since a pull-up bar is usually a pipe, the formula for that moment of inertia is given by the formula below (where OD and ID refer to outer and inner diameter respectively):
 $$ I_{pipe} = \frac{\pi}{64}(OD^4-ID^4) $$
 
-Because we're trying to figure out the maximum bending stress, *y* is equal to the OD of the pipe, where the stress is greatest. To find the biggest moment *M* on the bar, we need to create a *bending moment diagram*. Now, it's not entirely important that you know how to create a bending moment diagram from scratch (if you want to know how to, watch this video: [link](youtube.com/watch?v=C-FEVzI8oe8)) because there's only 3 scenarios we care about and all of them can be found in textbooks (their derivation is intuitively difficult due to being statically determinate, so I'm just going to do them myself and provide formulas for the **MAXIMUM** moment for each).
+Because we're trying to figure out the maximum bending stress, *y* is equal to the OD of the pipe, where the stress is greatest. To find the biggest moment *M* on the bar, we need to create a *bending moment diagram*. Now, it's not entirely important that you know how to create a bending moment diagram from scratch (if you want to know how to, watch this video: [link](https://youtube.com/watch?v=C-FEVzI8oe8)) because there's only 3 scenarios we care about and all of them can be found in textbooks (their derivation is intuitively difficult due to being statically determinate, so I'm just going to do them myself and provide formulas for the **MAXIMUM** moment for each).
 
 We can also substitute these equations into the equation for bending stress to calculate the maximum force *F* these three configurations can handle (isn't math fun?!).
 
 Hanging in the Middle
 : <img src="/assets/img/point_load.PNG">
 
-The equation for the maximum moment is given by the textbook **Deflection of Beams Dr. T.H.G. Megson, in Structural and Stress Analysis (Fourth Edition), 2019** [link](sciencedirect.com/topics/engineering/fixed-end-moment): 
+The equation for the maximum moment is given by the textbook **Deflection of Beams Dr. T.H.G. Megson, in Structural and Stress Analysis (Fourth Edition), 2019** [link](https://sciencedirect.com/topics/engineering/fixed-end-moment): 
 
 $$ M = {FL \over 8} $$
 
@@ -82,7 +82,7 @@ $$ F_{max}=min\left ( \frac{8L\sigma I}{y(L^2-D^2)},\frac{8L\sigma I}{y(L-D)(D-L
 Grabbing one-handed
 : <img src="/assets/img/offset_point_load.PNG">
 
-The equation for the maximum moment is given by the textbook **Deflection of Beams Dr. T.H.G. Megson, in Structural and Stress Analysis (Fourth Edition), 2019** [link](sciencedirect.com/topics/engineering/fixed-end-moment): 
+The equation for the maximum moment is given by the textbook **Deflection of Beams Dr. T.H.G. Megson, in Structural and Stress Analysis (Fourth Edition), 2019** [link](https://sciencedirect.com/topics/engineering/fixed-end-moment): 
 
 $$ M= {F(D)(L-D)^2 \over L^2} $$
 
@@ -107,7 +107,7 @@ _source: [engineering toolbox](https://theconstructor.org/structural-engg/euler-
 * one end fixed, the other end rounded : *n = 2*
 * one end fixed, one end free : *n = 0.25* (**For our analysis, we'll select this one.** Our pull-up bar columns won't be completely free floating, but this is a good, conservative selection)
 
-and **E** is a value called the **Young's Modulus** (another [good video](youtube.com/watch?v=DLE-ieOVFjI) on the topic). The Young's modulus or the "Modulus of Elasticity" is unique for each material and a measure of a how stiff a material is (the higher the number, the stiffer the material is).  
+and **E** is a value called the **Young's Modulus** (another [good video](https://youtube.com/watch?v=DLE-ieOVFjI) on the topic). The Young's modulus or the "Modulus of Elasticity" is unique for each material and a measure of a how stiff a material is (the higher the number, the stiffer the material is).  
 
 * 1020 cold-rolled steel: **E** = 27000 ksi (remember 1 ksi = 1000 psi) [^fn2]
 * aluminum 6061: **E** = 10,000 ksi (from this, we can see that aluminum is almost 3 times less stiff than steel, which is why it wouldn't make for a great pullup bar.) [^fn3]
@@ -140,7 +140,7 @@ _Concept #1_
 * Could theoretically adjust the height if needed
 **Cons**
 * Probably more expensive than anything that uses wood
-* restricted to 3/4" EMT conduit if using [makerpipe T connectors](makerpipe.com/shop?gclid=Cj0KCQjwg7KJBhDyARIsAHrAXaFLwmH9bsUwmxheNgrih4yTaoNND2Prs_bjpFiGHeddX_7fXC7hziEaAnhOEALw_wcB) meaning it's going to be somewhat weak
+* restricted to 3/4" EMT conduit if using [makerpipe T connectors](https://makerpipe.com/shop?gclid=Cj0KCQjwg7KJBhDyARIsAHrAXaFLwmH9bsUwmxheNgrih4yTaoNND2Prs_bjpFiGHeddX_7fXC7hziEaAnhOEALw_wcB) meaning it's going to be somewhat weak
 
 ![Desktop View](/assets/img/concept_2.PNG)
 _Concept #2_
