@@ -1,5 +1,5 @@
 ---
-title: [Draft] Getting started with Python
+title: (Draft) Getting started with Python
 date: 2023-1-1 12:00:00 -500
 categories: [tutorial,software]
 tags: [python,windows,install,software]

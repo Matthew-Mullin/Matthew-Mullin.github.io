@@ -1,5 +1,5 @@
 ---
-title: [Draft] Install Octoprint
+title: (Draft) Install Octoprint
 date: 2021-12-31 12:00:00 -500
 categories: [tutorial,software,microelectronics]
 tags: [ender 3,octoprint,3D print,install,software]

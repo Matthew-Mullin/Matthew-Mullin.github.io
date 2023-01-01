@@ -1,5 +1,5 @@
 ---
-title: [Draft] DIY Camera Stand
+title: (Draft) DIY Camera Stand
 date: 2021-8-25 12:00:00 -500
 categories: [tutorial,hardware,project]
 tags: [DIY,videography]

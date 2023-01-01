@@ -1,5 +1,5 @@
 ---
-title: [Draft] Install Raypier
+title: (Draft) Install Raypier
 date: 2022-1-15 12:00:00 -500
 categories: [tutorial,software]
 tags: [python,raypier,optics,install,software]
