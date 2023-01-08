@@ -1,5 +1,5 @@
 ---
-title: (Draft) Designing a DIY Pull up bar
+title: Designing a DIY Pull up bar (Draft) 
 date: 2021-11-1 12:00:00 -500
 categories: [tutorial,hardware,engineering,project]
 tags: [DIY,statics,solid mechanics,CAD]

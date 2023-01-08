@@ -1,5 +1,5 @@
 ---
-title: (Draft) How to take care of your skin
+title: How to take care of your skin (Draft) 
 date: 2022-3-22 12:00:00 -500
 categories: [health]
 tags: [skin,health]
