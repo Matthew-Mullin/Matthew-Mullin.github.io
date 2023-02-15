@@ -5,7 +5,7 @@ categories: [health]
 tags: [skin,health]
 ---
 
-I always thought skincare was fairly vain, but good skin equals good confidence, which is important if you want to be a jolly little human.
+Good skincare equals good confidence, which is important if you want to be a jolly little human.
 
 Here's some tips:
 * Avoid dairy[^fn1]
