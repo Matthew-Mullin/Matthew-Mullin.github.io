@@ -4,12 +4,15 @@ date: 2022-3-2 12:00:00 -500
 categories: [tutorial,software]
 tags: [git,github,linux,install,software]
 ---
+Here's my workflow for working with Git and Github; the following is assuming working on Linux but working on Windows is fairly similar. Much of this is done seemlessly in Vscode if you want to avoid the command line: https://code.visualstudio.com/download, https://code.visualstudio.com/docs/sourcecontrol/overview. 
+
 # Install
 1. Open a terminal and type:
 ```
 sudo apt install git
 ```
-# General Use
+
+# Clone a Repository (repo)
 1. cd to where you want the repository cloned
 2. 
 ```
@@ -20,8 +23,11 @@ git clone https://github.com/yourUsername/yourRepository.git
 4. For password:
     1. follow the steps for creating a token: <https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token>
     2. paste in your token for the password
-    3. (optional) save the token to a .txt file or something for convenience
-5. Push what you have to the origin: <https://www.linode.com/docs/guides/how-to-install-git-and-clone-a-github-repository/>
+    3. (optional) save the token to a .txt file or something for 
+    
+# Push your changes
+1. Mess around with some files in your local repository
+2. Push what you have to the origin: <https://www.linode.com/docs/guides/how-to-install-git-and-clone-a-github-repository/>
     1. cd to your github folder
     2. 
     ```bash
@@ -30,16 +36,18 @@ git clone https://github.com/yourUsername/yourRepository.git
     git commit -a -m “message for commit”
     git push origin main
     ```
-    3. Or if the last command didn't work: `git push origin master`; essentially origin is your repository on Github.com, and master/main is the main branch
-6. type in username and password
-7. pull from origin:
-    1. cd to your github folder
-    2. 
-    ```
-    git pull origin main
-    ```
-    3. enter username
-    4. enter token for password
+    **Note**: if you want to only commit certain files, then replae `git add .` with `git add [insert file name here]` 
+    3. Or if the last command didn't work: `git push origin master` or `git push origin main`; essentially origin is your repository on Github.com, and master/main is the main branch
+3. type in username and password
+
+# Pull new changes
+1. cd to your github folder
+2. 
+```
+git pull origin main
+```
+3. enter username
+4. enter token for password
 
 Good overview videos: <https://www.youtube.com/watch?v=RGOj5yH7evk>
 
@@ -60,7 +68,7 @@ git diff name-of-branch
 5. git push
 
 ## Merge origin/main changes into branch
-Let’s say you want to pull changes to the origin/master branch to your branch:
+Let’s say you want to pull changes to the origin/main branch to your branch:
 
 1. commit and push all changes to your current branch)
 2. 
