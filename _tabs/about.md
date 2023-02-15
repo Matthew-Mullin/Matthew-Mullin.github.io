@@ -28,7 +28,7 @@ Hi, I'm Matt. I'm a 20-something grad student, mechanical engineer, [YouTuber](h
 
 The purpose of this website is to share my FREE ENERGY ANTI-ENTROPY TESLA TURBINE DEVICE DESIGN before the energy companies suppress it (that was a [joke](https://en.wikipedia.org/wiki/Joke) and evidence that I have a personality, despite any real-life interactions that may suggest the converse).
 
-In all seriousness, I made this website because over the years, I've worked on a few projects and also mulled over 100’s of ideas from beamed powered propulsion vehicles to low-cost cryocoolers. I've learned a lot of lessons of what works and what doesn't, and I'd like to share that knowledge with others to save them some time. I'd also like to explore open-sourcing some of my invention ideas just to see what happens.
+In all seriousness, I made this website because over the years, I've worked on a few projects and also mulled over many many ideas from beamed powered propulsion vehicles to low-cost cryocoolers. I want to share the knowledge I've accumulated with others to save them some time and the 1000's of pitfalls I've found myself in. I'd also like to explore open-sourcing some of my invention ideas just to see what happens.
 
 </section>
 
