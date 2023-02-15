@@ -1,5 +1,5 @@
 ---
-title: Git for Linux Install and Quickstart Guide
+title: Git for Linux - Install and Quickstart Guide
 date: 2022-3-2 12:00:00 -500
 categories: [tutorial,software]
 tags: [git,github,linux,install,software]
