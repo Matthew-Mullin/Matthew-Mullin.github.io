@@ -3,6 +3,7 @@ title: Analysis of a Solar Thermal Beam-Powered Propulsion Rocket
 date: 2023-2-20 12:00:00 -500
 categories: [engineering]
 tags: [solar,rocket,beam-powered,propulsion]
+math: on
 ---
 # Analysis of a Solar Thermal Beam-Powered Propulsion Rocket (and why it probably wouldn't work)
 ## What is a Beam-Powered Propulsion Rocket?
