@@ -4,4 +4,8 @@ icon: fas fa-wrench
 order: 4
 ---
 
-![Desktop View](https://i.imgflip.com/7621tc.jpg)
+[Coming Soon]
+
+<!---
+# ![Desktop View](https://i.imgflip.com/7621tc.jpg)
+-->

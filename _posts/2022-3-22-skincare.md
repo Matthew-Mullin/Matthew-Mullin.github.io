@@ -5,8 +5,6 @@ categories: [health]
 tags: [skin,health]
 ---
 
-Good skincare equals good confidence, which is important if you want to be a jolly little human.
-
 Here's some tips:
 * Avoid dairy[^fn1]
     - Dairy (of any kind) can increase your odds of getting acne by ~20-25%
@@ -21,7 +19,8 @@ Here's some tips:
 * Keep your hair out of your face
     * Either keep your hair short
     * Or use a [hairband](https://www.amazon.com/gp/product/B07VFYM5B5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) 
-* Sleep on your back if you can
+* Sleep on your back if you can, and get good sleep.
 * Avoid processed sugars (fruit is fine)
+* Reduce stress in your life. Or more accurately, reduce consistently elevated levels of cortisol.
 
 [^fn1]: *Dairy Intake and Acne Vulgaris: A Systematic Review and Meta-Analysis of 78,529 Children, Adolescents, and Young Adults* <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6115795/>
