@@ -50,7 +50,7 @@ _Schematic of Sun and Concentrating Optics from Duffie and Beckman. $\theta_s$ i
 A concentration ratio of 30,000 would require Telescope-grade optics and extremely precise controls but is not immediately impossible even accounting for things such as atmospheric attenuation and mirror soiling.
 
 ## Focal Distance vs Concentration Ratio
-Unlike a microwave thermal rocket that would likely be limited to one microwave array due to cost, a solar thermal rocket could have multiple mirror facilities on the ground or in space (with mylar mirror arrays). The latest [ground-based heliostats](https://www.nrel.gov/docs/fy22osti/80482.pdf) for concentrating solar power cost on the order of $96/$m^2$. Therefore, we will look at the maximum solar flux achievable at distances between 10 and 350 km and assume a mirror array.
+Unlike a microwave thermal rocket that would likely be limited to one microwave array due to cost, a solar thermal rocket could have multiple mirror facilities on the ground or in space (with mylar mirror arrays). The latest [ground-based heliostats](https://www.nrel.gov/docs/fy22osti/80482.pdf) for concentrating solar power cost on the order of 96 USD/$m^2$. Therefore, we will look at the maximum solar flux achievable at distances between 10 and 350 km and assume a mirror array.
 For a 2D parabola, the relationship between the focal length and height of the parabola is given by:
 $$y={1 \over 4f}x^2$$
 and revolving the parabola around the optical axis extends this analysis for parabaloids. Additionally, we will introduce the Rim Angle $\phi_r$ for a parabolic or parabaloidal mirror from Duffie and Beckman:
