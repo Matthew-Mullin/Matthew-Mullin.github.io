@@ -31,7 +31,7 @@ This article will primarily focus on the design of the microwave thermal thruste
 
 ## The Maximum Concentration Ratio of Solar Optics On or Near Earth
 **Most of the following analysis uses [Chapters 1 and 7 from the 4th edition of Solar Engineering of Thermal Processes by Duffie and Beckman](https://www.amazon.com/Solar-Engineering-Thermal-Processes-Duffie/dp/0470873663).**
-The solar flux at Earth's orbit (outside of the atmosphere) is accepted to be 1337 W/$m^2$ and is referred to as the extraterrestrial solar constant. This can also roughly be calculated if you assume the Sun emits light as a blackbody (which it approximates fairly closely at 5777K) and the diameter of the Sun ($d_{sun}=1.39x10^{9}$ m) as well as the distance between the Earth and Sun ($d_{Earth-Sun}=1.5x10^{11}$ m) are known:
+The solar flux at Earth's orbit (outside of the atmosphere) is accepted to be 1337 W/$m^2$ and is referred to as the extraterrestrial solar constant. This can also roughly be calculated if you assume the Sun emits light as a blackbody (which it approximates fairly closely at 5777K) and the diameter of the Sun ($d_{sun}=1.39 \times 10^{9} m$) as well as the distance between the Earth and Sun ($d_{Earth-Sun}=1.5 \times 10^{11} m$) are known:
 $$ \dot{Q}_{Sun}=A_{Sun}\sigma T^4=\pi d_{Sun}^2\sigma T^4=3.8*10^{26} W$$
 $$ \dot{q}_{Sol}=\dot{Q}_{Sun}/A_{Earth-orbit}={\dot{Q}_{Sun} \over (4\pi (d_{Earth-Sun}+d_{Sun}/2)^2)}= 1343 W/m^2$$
 
