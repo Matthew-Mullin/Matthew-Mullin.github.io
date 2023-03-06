@@ -31,7 +31,7 @@ This article will primarily focus on the design of the microwave thermal thruste
 
 ## The Maximum Concentration Ratio of Solar Optics On or Near Earth
 **Most of the following analysis uses [Chapters 1 and 7 from the 4th edition of Solar Engineering of Thermal Processes by Duffie and Beckman](https://www.amazon.com/Solar-Engineering-Thermal-Processes-Duffie/dp/0470873663).**
-The solar flux at Earth's orbit (outside of the atmosphere) is accepted to be 1337 W/$m^2$ and is referred to as the extraterrestrial solar constant. This can also roughly be calculated if you assume the Sun emits light as a blackbody (which it approximates fairly closely at 5777K) and the diameter of the Sun ($1.39*10^9$ [m]) as well as the distance between the Earth and Sun ($1.5*10^{11}$ [m]) are known:
+The solar flux at Earth's orbit (outside of the atmosphere) is accepted to be 1337 W/$m^2$ and is referred to as the extraterrestrial solar constant. This can also roughly be calculated if you assume the Sun emits light as a blackbody (which it approximates fairly closely at 5777K) and the diameter of the Sun ($ 1.39*10^9 $ [m]) as well as the distance between the Earth and Sun ($ 1.5*10^{11} $ [m]) are known:
 $$ \dot{Q}_{Sun}=A_{Sun}\sigma T^4=\pi d_{Sun}^2\sigma T^4=3.8*10^{26} W$$
 $$ \dot{q}_{Sol}=\dot{Q}_{Sun}/A_{Earth-orbit}={\dot{Q}_{Sun} \over (4\pi (d_{Earth-Sun}+d_{Sun}/2)^2)}= 1343 W/m^2$$
 
@@ -149,7 +149,7 @@ _The Solar "Laser" not working because of the real shape of the sun_
 ## Minimum Required Concentration Ratio Neglecting Focal Distance
 Assuming the temperature requirements are [1500 [K]](https://parkinresearch.com/microwave-thermal-rockets/) and 300 [MW] of power delivered, the following equation can be used to find the required concentration ratio for a given vehicle cross-sectional area (assuming it's close to blackbody):
 
-$$q_{in}-q_{out}=300*10^6 [MW]=A\dot{q}_{sol}C-\sigma A(T_{rocket}^4-T_{\inf}^4)$$
+$$q_{in}-q_{out}=300*10^6 [W]=A\dot{q}_{sol}C-\sigma A(T_{rocket}^4-T_{\inf}^4)$$
 
 Varying the cross-sectional area $A$, we can plot the minimum concentration ratio:
 
