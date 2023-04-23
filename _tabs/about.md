@@ -19,22 +19,26 @@ order: 2
 ![Desktop View](/assets/img/MM_Logo.png)
 _To be replaced with a professional headshot_
 
-
+<!--->
 > Let's be real, who's going to read this?
-> -- <cite>Matthew Mullin's famous last words</cite>
+> -- <cite>my last words</cite>
+-->
 
 # About Me
-Hi, I'm Matt. I'm a grad student, mechanical engineer, [YouTuber](https://www.youtube.com/user/GalacticsTutorials/featured), [maker](https://www.youtube.com/channel/UC7IVAaYbsnq1icQKPBbQzzw), inventor, and self-proclaimed Pirate 🏴‍☠️ (left the last one off my resume).
+Hi, I'm Matt. Before I get into the jokes, I just want to thank everyone who supported me so far; I hope to one day pay those debts back.<!-- I'm a grad student, mechanical engineer, [YouTuber](https://www.youtube.com/user/GalacticsTutorials/featured), [maker](https://www.youtube.com/channel/UC7IVAaYbsnq1icQKPBbQzzw), inventor, and self-proclaimed Pirate 🏴‍☠️ (left the last one off my resume). -->
 
 The purpose of this website is to share my free energy anti-entropy tesla turbine design before the energy companies suppress it (that was a [joke](https://en.wikipedia.org/wiki/Joke)).
 
-In all seriousness, I made this website because over the years, I've worked on a few projects and also mulled over many ideas from new types of renewable energy systems to beam-powered propulsion vehicles to low-cost cryocoolers. I want to share the knowledge I've accumulated with others to save them some time and the pitfalls I've found myself in. I'd also like to explore open-sourcing some of my invention ideas just to see what happens.
+In sincerity, I made this website because I've worked on a few projects and also mulled over many ideas from new types of renewable energy systems to beam-powered propulsion vehicles to low-cost cryocoolers. I want to share the knowledge I've accumulated with others to save them some time and avoid the pitfalls I've found myself in. I'd also like to explore placing some of my invention ideas into the public domain.
+
+Links to my past YouTube channels: [GalacticsTutorials](https://www.youtube.com/user/GalacticsTutorials/featured), [More recent tutorials](https://www.youtube.com/channel/UC7IVAaYbsnq1icQKPBbQzzw)
 
 </section>
 
 # Contact Me
 <comments@whitehouse.gov> or leave a comment on one of my articles requesting a real contact form.
 
+<!--->
 # Additional Info
 <summary>Here's some more info about me for those with abundant freetime and/or if you're running out of effective treatments for insomnia:</summary>
 <details> 
@@ -52,9 +56,8 @@ Throughout history, people have identified themselves from where they’re from 
 * I quit my YouTube Channel when I was around 16. Every winter, summer, and weekend, I have vowed to start posting videos again. Hopefully within the next decade, I'll get the motivation.
 * For legal reasons, I can’t confirm that this is my work, but here’s a fan fiction about [Vladimir Putin](https://www.fanfiction.net/s/10552727/1/VLADIMIR-PUTIN-DANCE-DANCE-REVOLUTION-MASTER)
 * My GPA in high school was an unweighted 98.5, and my GPA in college was a 3.96/4.0. But none of that matters because I can never finish a project.
-* I won a $30,000 grant and first place in a business competition. However, as of the time of writing this, I have never even sold a newspaper (see above bullet point).
+* I (technically) won a $30,000 grant and first place in a business competition. However, as of the time of writing this, I have never even sold a newspaper (see above bullet point).
 * I have 2 provisional patents so far. You could too if you have $70 and the ability to produce a word document.
-* A dream of mine is to build a self-sustaining ship in international waters and create my own micronation. But I’m about 1000 miles from the ocean right now and I forgot the password to my multi-billy crypto key, so that poses a slight issue.
 
 ## What Ideas do I have?
 They’re mostly in the area of physics and engineering, but I do have some ideas/inventions in biology, psychology, business, and debate. Some broad categories are:
@@ -70,14 +73,14 @@ They’re mostly in the area of physics and engineering, but I do have some idea
 ## What are my values?
 Read this if you want to cringe and haven't already:
 
-While in high school, I may have been described as an [anarcho-syndicalist with anti-consumerist tendancies](https://en.wiktionary.org/wiki/pretentious); now, my general life philosophy and guiding principles can be broadly described as:
+ [unique](https://en.wiktionary.org/wiki/pretentious); now, my general life philosophy and guiding principles can be broadly described as:
 * touch grass
 * walk outside
 * look at a mountain
 * respecting people with differing values and decoding the air they vibrate within my vicinity
 * open to sharing almost all information freely (possibly with royalties/licenses for business); however, I do understand why posting DIY thermonuclear fusion tutorials on YouTube could be problematic.
 * listening to the [Andrew Huberman podcast](https://hubermanlab.com/)
-* generally against certain business practices that involve the generation of single-use containers, planned obsolescence, fighting the right to repair, dehumanization (think about the supply chain of your phone), etc.
+* generally against certain business practices that involve the generation of single-use containers, planned obsolescence, fighting the right to repair, etc.
     * but I see the introduction of more conscientious (and well-marketed) businesses as the only practical solution
 * **only buying one brand of socks so you don't have to sort your socks**
 * life isn’t a zero sum game:

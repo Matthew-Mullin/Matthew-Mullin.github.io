@@ -21,10 +21,10 @@ timezone: America/Chicago
 
 title: Matthew Mullin                          # the main title
 
-tagline: Grad student by day, Insomniac Inventor by night   # it will display as the sub-title
+tagline: Grad student by day, hopefully asleep by night   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Grad student by day, Insomniac Inventor by night.
+  Grad student by day, hopefully asleep by night.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://Matthew-Mullin.github.io'
